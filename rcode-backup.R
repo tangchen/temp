@@ -7,4 +7,4 @@ ui_colors = list(orange = '#E84A27',
                  citron = '#bfd46d',
                  yellow = '#ffd125',
                  salmon = '#ee5e5e',
-                 periwinkle = '4f6898')
+                 periwinkle = '#4f6898')
